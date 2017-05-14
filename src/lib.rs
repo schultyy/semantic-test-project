@@ -2,6 +2,7 @@
 
 pub fn foo() {
     println!("4223");
+    println!("OC");
 }
 
 mod tests {
