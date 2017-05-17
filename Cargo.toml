@@ -1,9 +1,5 @@
 [package]
 name = "semantic-test-project"
 version = "1.2.0"
-authors = ["Jan Schulte <hello@unexpected-co.de>"]
-license="MIT"
-description="Test project for semantic-rs"
-homepage="https://github.com/schultyy/semantic-test-project"
 
 [dependencies]
