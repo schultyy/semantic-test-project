@@ -1,3 +1,13 @@
+<a name="v1.3.0"></a>
+## v1.3.0 (2017-05-18)
+
+
+#### Features
+
+*   now it also sings ([e4a9b3c9](e4a9b3c9))
+
+
+
 <a name="v1.2.0"></a>
 ## v1.2.0 (2017-05-14)
 
