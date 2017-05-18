@@ -5,6 +5,10 @@ pub fn foo() {
     println!("OC");
 }
 
+pub fn sing() {
+    println!("Sing for me");
+}
+
 mod tests {
     #[test]
     fn it_works() {
