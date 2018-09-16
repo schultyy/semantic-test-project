@@ -14,6 +14,10 @@ pub fn sing() {
     println!("Sing for me");
 }
 
+pub fn foo() {
+    println!("BAR");
+}
+
 mod tests {
     #[test]
     fn it_works() {
