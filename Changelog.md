@@ -1,3 +1,17 @@
+<a name="v2.0.0"></a>
+## v2.0.0 (2018-09-16)
+
+
+#### Features
+
+*   FOo bar ([99e420cf](99e420cf))
+
+#### Breaking Changes
+
+*   FOo bar ([99e420cf](99e420cf))
+
+
+
 <a name="v1.9.0"></a>
 ## v1.9.0 (2018-09-16)
 
