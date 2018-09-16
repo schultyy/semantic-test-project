@@ -1,3 +1,13 @@
+<a name="v1.8.0"></a>
+## v1.8.0 (2018-09-16)
+
+
+#### Features
+
+*   Make Cargo.toml valid ([36f9d31d](36f9d31d))
+
+
+
 <a name="v1.7.0"></a>
 ## v1.7.0 (2018-09-16)
 
