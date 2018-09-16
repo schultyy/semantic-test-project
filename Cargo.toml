@@ -2,7 +2,8 @@
 name = "semantic-test-project"
 version = "1.8.0"
 license = "MIT"
-author = "Jan Schulte"
+authors = ["Jan Schulte"]
 description = "test project"
+repository = "https://github.com/schultyy/semantic-test-project"
 
 [dependencies]
