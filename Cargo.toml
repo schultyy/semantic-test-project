@@ -1,5 +1,8 @@
 [package]
 name = "semantic-test-project"
 version = "1.7.0"
+license = "MIT"
+author = "Jan Schulte"
+description = "test project"
 
 [dependencies]
